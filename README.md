@@ -1,6 +1,5 @@
 # PHP-AND-WORDPRESS
 This repository contains all the information about functions and way of using php and wordpress.
-Below is a detailed README.md template for your WordPress theme conversion project, including all the concepts, files, and asset-handling (photos, CSS, JS) with example snippets. This follows standard markdown documentation conventions for web development projects.[1][4]
 
 ***
 
@@ -230,6 +229,3 @@ A: Yes. Place JS files in `js/`, enqueue them using functions.php.
 ***
 
 
-[7](https://forums.classicpress.net/t/ditch-readme-txt-in-favour-of-readme-md/3382)
-[8](https://www.elegantthemes.com/blog/tips-tricks/using-markdown-in-wordpress)
-[9](https://www.1stfedci.com/wp-content/plugins/create-block-theme/readme.txt)
